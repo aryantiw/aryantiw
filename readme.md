@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### <h1>You Can Connect Me Here </h1> 
 
-[<img height=40 width=40 align="centre" alt="Mail me" src="assets/Mail.png">](mailto:aryantiwari543@gmail.com)
-[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="assets/LinkedIn.png">](https://www.linkedin.com/in/aryantiwari543/) 
-[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="assets/Twitter.png">](https://twitter.com/aryantiwari543) 
-[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="assets/Instagram.jpg">](https://www.instagram.com/aryantiw2908/)
+[<img height=40 width=40 align="centre" alt="Mail me" src="Mail.png">](mailto:aryantiwari543@gmail.com)
+[<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="LinkedIn.png">](https://www.linkedin.com/in/aryantiwari543/) 
+[<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="Twitter.png">](https://twitter.com/aryantiwari543) 
+[<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="Instagram.jpg">](https://www.instagram.com/aryantiw2908/)
