@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryantiw&hide_border=true&background=0D111700&border=943BDD00&fire=0FAADA&sideNums=10D906&currStreakLabel=10D906&currStreakNum=10D906&sideLabels=10D906&dates=4F5D78&stroke=7F1DA2&ring=10D906)](https://git.io/streak-stats)
 <hr>
 
-### <h1>You Can Connect Me Here </h1> 
+### <h1>You can connect with me here </h1> 
 
 [<img height=40 width=40 align="centre" alt="Mail me" src="Mail.png">](mailto:aryantiwari543@gmail.com)
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="LinkedIn.png">](https://www.linkedin.com/in/aryantiwari543/) 
