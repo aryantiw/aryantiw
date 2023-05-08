@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link](https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link)
 
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantiw&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=)
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantiw&theme=radical&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=" width="335px" data-canonical-><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryantiw&hide_border=true&background=0D111700&border=943BDD00&fire=0FAADA&sideNums=10D906&currStreakLabel=10D906&currStreakNum=10D906&sideLabels=10D906&dates=4F5D78&stroke=7F1DA2&ring=10D906)](https://git.io/streak-stats)
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryantiwari543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryantiwari543" height="30" width="40" /></a>
