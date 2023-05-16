@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aryantiwari.netlify.app)
 
-- 📝 I regularly write articles on about science, tech and philosphy on [My Blog](https://naturenspace.blogspot.com/)
+- 📝 I regularly write articles on about science, tech and philosophy on [My Blog](https://naturenspace.blogspot.com/)
 
 - 📫 How to reach me **aryantiwari543@gmail.com**
 
