@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://aryantiwari.netlify.app](https://aryantiwari.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aryantiwari.netlify.app)
 
-- 📝 I regularly write articles on [https://naturenspace.blogspot.com/](https://naturenspace.blogspot.com/)
+- 📝 I regularly write articles on about science, tech and philosphy on [My Blog](https://naturenspace.blogspot.com/)
 
 - 📫 How to reach me **aryantiwari543@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link](https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link)
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantiw&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=)
 
