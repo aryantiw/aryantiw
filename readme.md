@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **aryantiwari543@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GKh8m3z7zW53301p3qVHLTi--5fFF3St/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1VREDri_qVNPnSKcxMP65tIIFW3QyVymw/view?usp=sharing)
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryantiw&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&bg_color=)
 
