@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate Web and Software Developer</h3>
 
-- 🔭 I’m currently working on **Sankrit Translator**
+- 🔭 I’m currently working on **The Bot Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
